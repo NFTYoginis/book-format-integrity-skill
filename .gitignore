@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+node_modules/
+# regenerable from _runs/rebuild-ayah-epub.sh; also carries the book's own images and text
+_runs/*.epub
+_runs/*.docx
+_runs/img-ebook/
+_runs/prepped.html
+_runs/cmp/
+_runs/
